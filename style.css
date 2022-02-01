@@ -62,3 +62,6 @@ h2{
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
 }
+.copywright{
+    text-align: center;
+}
